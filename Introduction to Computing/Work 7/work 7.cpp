@@ -26,7 +26,7 @@ int main()
     cout << "\n";
 
     lerDados(domicilio, quantidade);
-    insertionSort(domicilio, quantidade);
+    insertionSort(domicilio, quantidade); //fazer a ordenação por inserção direta
 
     menu();
     cout << "Digite uma opcao: ";
