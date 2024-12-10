@@ -1,0 +1,264 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1733679364
+export_presets.cfg::TextFile::-1::1732825117::0::1::::<><>::
+icon.svg::CompressedTexture2D::9175760531046227415::1732748501::1732748507::1::::<><>::
+::res://assets/::1733337101
+cenario-fechado.blend::PackedScene::8413630289478277162::1732824007::1732824073::1::::<><>::uid://cc02e5kpjl6kl::::res://assets/textures/colormap.png<>uid://cgaqlijf0cu1r::::res://assets/textures/cobblestoneAlternative.png<>uid://0tyqvd38h8tp::::res://assets/textures/cobblestoneAlternative.001.png
+cenario-fechado.glb::PackedScene::2244557578029803731::1732824031::1732824045::1::::<><>::uid://cpu61a244ytjm::::res://assets/cenario-fechado_colormap.png<>uid://dcg4lhr8xnscd::::res://assets/cenario-fechado_cobblestoneAlternative.png
+Kaka.glb::PackedScene::5110794052723721736::1733156855::1733156880::1::::<><>::uid://col7a2e3oyunx::::res://assets/Kaka_Shoe_Low_Material.png<>uid://bjv3drjyd3snb::::res://assets/Kaka_Shoe_Low_Material_1.png<>uid://itgmeytulshr::::res://assets/Kaka_Shoe_Low_Material_2.png<>uid://uokab4rutq7j::::res://assets/Kaka_SkinTexture.png<>uid://cnb1m0vrkf6qr::::res://assets/Kaka_fiber_albedo.png<>uid://n3i4u63d6hv1::::res://assets/Kaka_Belt_Low_Material.png<>uid://bjuu3ylv0iqv2::::res://assets/Kaka_eyeUV.png<>uid://cv1x16urgnsvv::::res://assets/Kaka_Jean_low_Material.png
+Kaka_Belt_Low_Material.png::CompressedTexture2D::970796168006836328::1733156872::1733156881::1::::<><>::
+Kaka_eyeUV.png::CompressedTexture2D::3060673452142392405::1733156875::1733156881::1::::<><>::
+Kaka_fiber_albedo.png::CompressedTexture2D::5688962130084114517::1733156872::1733156881::1::::<><>::
+Kaka_fiber_specular.png::CompressedTexture2D::2403751112601724653::1733156871::1733156871::1::::<><>::
+Kaka_Jean_low_Material.png::CompressedTexture2D::6301925486766487823::1733156876::1733156881::1::::<><>::
+Kaka_Shoe_Low_Material.png::CompressedTexture2D::5780137702983378881::1733156862::1733156881::1::::<><>::
+Kaka_Shoe_Low_Material_1.png::CompressedTexture2D::3063178550345596627::1733156863::1733156881::1::::<><>::
+Kaka_Shoe_Low_Material_2.png::CompressedTexture2D::601119905974012095::1733156866::1733156881::1::::<><>::
+Kaka_SkinTexture.png::CompressedTexture2D::1433285429367722689::1733156869::1733156881::1::::<><>::
+testing.glb::PackedScene::2010689462403574192::1733071911::1733071919::1::::<><>::uid://de2ub2ml6f7f5::::res://assets/testing_metal grau casz stone rust_BaseColor.jpg<>uid://cjkmacittqkuu::::res://assets/testing_metal grau casz stone rust_Metallic.jpg-metal grau casz stone rust_Roughness.png<>uid://ou5x14rk3hef::::res://assets/testing_metal grau casz stone rust_Normal.jpg<>uid://crwi8ocsugwsx::::res://assets/testing_stab_BaseColor.jpg<>uid://dv7kfk8gfwsou::::res://assets/testing_stab_Metallic.jpg-stab_Roughness.png<>uid://il60c2nurrw1::::res://assets/testing_stab_Normal.jpg<>uid://cpccm73h1fewe::::res://assets/testing_Fackel docht_BaseColor.jpg<>uid://c1vluipdi6ypp::::res://assets/testing_Fackel docht_Metallic.jpg-Fackel docht_Roughness.jpg.png<>uid://ipi0gcpet6ju::::res://assets/testing_Fackel docht_Normal.jpg
+trabalhoWithAnim.glb::PackedScene::5461841568082633266::1732749891::1732749892::1::::<><>::
+trabalhoWithoutAnim.glb::PackedScene::778510681933335235::1733099859::1733099875::1::::<><>::
+ursaov2.glb::PackedScene::7310781113950856858::1733337048::1733337101::1::::<><>::
+::res://assets/kit1_models/::1733075022
+::res://assets/kit1_models/GLB format/::1733075026
+banner.glb::PackedScene::8925053784699546570::1709215473::1733075026::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+barrel.glb::PackedScene::2726567608547853284::1709215473::1733075026::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+character-human.glb::PackedScene::3304489158469169701::1709215474::1733075026::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+character-orc.glb::PackedScene::1384970397382764056::1709215474::1733075026::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+chest.glb::PackedScene::809446746702580226::1709215474::1733075025::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+coin.glb::PackedScene::986869910367528302::1709215474::1733075025::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+column.glb::PackedScene::4885046237232583369::1709215474::1733075025::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+dirt.glb::PackedScene::4313299235519400663::1709215474::1733075025::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+floor-detail.glb::PackedScene::1048238859289339583::1709215474::1733075025::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+floor.glb::PackedScene::7137175981391276051::1709215474::1733075024::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+gate.glb::PackedScene::6825268074255290507::1709215474::1733075024::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+rocks.glb::PackedScene::5603168904080894689::1709215474::1733075024::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+stairs.glb::PackedScene::5183311761257050315::1709215474::1733075024::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+stones.glb::PackedScene::4533623744572126993::1709215474::1733075024::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+trap.glb::PackedScene::4372768932931371809::1709215474::1733075024::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+wall-half.glb::PackedScene::2167566251125271923::1709215474::1733075023::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+wall-narrow.glb::PackedScene::3149045448846123647::1709215474::1733075023::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+wall-opening.glb::PackedScene::2363285842717687512::1709215474::1733075023::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+wall.glb::PackedScene::6237136158062213440::1709215474::1733075023::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+wood-structure.glb::PackedScene::292650434794973461::1709215474::1733075022::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+wood-support.glb::PackedScene::8584551187025483931::1709215475::1733075022::1::::<><>::uid://clcjafbkiqiev::::res://assets/kit1_models/GLB format/Textures/colormap.png
+::res://assets/kit1_models/GLB format/Textures/::1733075029
+colormap.png::CompressedTexture2D::5549594120474814397::1709215486::1733075029::1::::<><>::
+::res://assets/kit1_models/Textures/::1733075022
+variation-a.png::CompressedTexture2D::524719873605766250::1709215486::1733075022::1::::<><>::
+::res://assets/kit2_models/::1733075457
+::res://assets/kit2_models/GLB format/::1733075477
+barrel-open.glb::PackedScene::4337532643651444027::1712149156::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+barrel.glb::PackedScene::7343359220682612433::1712149156::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+bedroll-frame.glb::PackedScene::1810438989860113955::1712149156::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+bedroll-packed.glb::PackedScene::4842806029928530544::1712149156::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+bedroll.glb::PackedScene::70800439251654396::1712149156::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+bottle-large.glb::PackedScene::6772056094053679798::1712149156::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+bottle.glb::PackedScene::8333997901781118302::1712149156::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+box-large-open.glb::PackedScene::9106582993626614229::1712149157::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+box-large.glb::PackedScene::3361174561837708436::1712149157::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+box-open.glb::PackedScene::7906066816232828336::1712149157::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+box.glb::PackedScene::5551389309435304296::1712149157::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+bucket.glb::PackedScene::7650449505317317481::1712149157::1733075474::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+campfire-fishing-stand.glb::PackedScene::5224421561599433320::1712149157::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+campfire-pit.glb::PackedScene::6731641458255831652::1712149157::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+campfire-stand.glb::PackedScene::4279260076643568380::1712149157::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+chest.glb::PackedScene::4246283785574232589::1712149157::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+fence-doorway.glb::PackedScene::444195138576612151::1712149157::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+fence-fortified.glb::PackedScene::7006101031639217682::1712149157::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+fence.glb::PackedScene::6328528349228484754::1712149157::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+fish-large.glb::PackedScene::8086826952434250367::1712149157::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+fish.glb::PackedScene::8925105094649329096::1712149157::1733075477::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+floor-hole.glb::PackedScene::3184899023381635885::1712149157::1733075477::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+floor-old.glb::PackedScene::167922010778435528::1712149157::1733075477::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+floor.glb::PackedScene::7176738270817120634::1712149157::1733075477::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+grass-large.glb::PackedScene::8531757264933671902::1712149158::1733075477::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+grass.glb::PackedScene::4669142102310023862::1712149157::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+metal-panel-narrow.glb::PackedScene::2042094059764040453::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+metal-panel-screws-half.glb::PackedScene::3261423874527821842::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+metal-panel-screws-narrow.glb::PackedScene::7775449600077907263::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+metal-panel-screws.glb::PackedScene::7121363765134413893::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+metal-panel.glb::PackedScene::7375044070129885250::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+patch-grass-large.glb::PackedScene::6514407294129229831::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+patch-grass.glb::PackedScene::1719690367755959059::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+resource-planks.glb::PackedScene::3793745531312186326::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+resource-stone-large.glb::PackedScene::2538861610832102548::1712149158::1733075476::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+resource-stone.glb::PackedScene::269114888602225778::1712149158::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+resource-wood.glb::PackedScene::5264525835359681070::1712149158::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+rock-a.glb::PackedScene::243678446557735176::1712149158::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+rock-b.glb::PackedScene::2556042880667362504::1712149158::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+rock-c.glb::PackedScene::7091750628251953954::1712149158::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+rock-flat-grass.glb::PackedScene::1530281918666361350::1712149158::1733075475::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+rock-flat.glb::PackedScene::2190333508243943490::1712149158::1733075470::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+rock-sand-a.glb::PackedScene::1029893900048713652::1712149158::1733075470::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+rock-sand-b.glb::PackedScene::504915281626645413::1712149158::1733075470::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+rock-sand-c.glb::PackedScene::7711919419826358448::1712149158::1733075470::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+signpost-single.glb::PackedScene::5662594880828873973::1712149159::1733075470::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+signpost.glb::PackedScene::5504057659341702248::1712149159::1733075470::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure-canvas.glb::PackedScene::364043590474200777::1712149159::1733075470::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure-floor.glb::PackedScene::4674257065923989686::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure-metal-doorway.glb::PackedScene::8100336689168215083::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure-metal-floor.glb::PackedScene::5813608111355452320::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure-metal-roof.glb::PackedScene::2347837756001108700::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure-metal-wall.glb::PackedScene::1261131683224270794::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure-metal.glb::PackedScene::4457535484920163316::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure-roof.glb::PackedScene::2848762005445957517::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+structure.glb::PackedScene::4184796481503396459::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tent-canvas-half.glb::PackedScene::632031781492319332::1712149159::1733075469::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tent-canvas.glb::PackedScene::1932712087863154496::1712149159::1733075468::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tent.glb::PackedScene::6628352652374912345::1712149159::1733075468::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-axe-upgraded.glb::PackedScene::3253219592626095815::1712149159::1733075468::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-axe.glb::PackedScene::4398143348370535651::1712149159::1733075473::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-hammer-upgraded.glb::PackedScene::4584053653141740544::1712149159::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-hammer.glb::PackedScene::4769597751364613626::1712149159::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-hoe-upgraded.glb::PackedScene::22259507753075867::1712149159::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-hoe.glb::PackedScene::1491019897501869034::1712149159::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-pickaxe-upgraded.glb::PackedScene::2626247617657607092::1712149160::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-pickaxe.glb::PackedScene::2090096896670197375::1712149160::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-shovel-upgraded.glb::PackedScene::4433395814512638006::1712149160::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tool-shovel.glb::PackedScene::3309909532173649589::1712149160::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tree-autumn-tall.glb::PackedScene::5573518934432495734::1712149160::1733075472::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tree-autumn-trunk.glb::PackedScene::5366548273035098411::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tree-autumn.glb::PackedScene::4406422094774158526::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tree-log-small.glb::PackedScene::7111562888936416312::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tree-log.glb::PackedScene::1992269424776425963::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tree-tall.glb::PackedScene::1786735960271866406::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tree-trunk.glb::PackedScene::7014457628294640973::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+tree.glb::PackedScene::2349854584837898038::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+workbench-anvil.glb::PackedScene::6561245043271959150::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+workbench-grind.glb::PackedScene::7530526040759277453::1712149160::1733075471::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+workbench.glb::PackedScene::8648960038593891768::1712149160::1733075470::1::::<><>::uid://c3l55dy1vfq1d::::res://assets/kit2_models/GLB format/Textures/colormap.png
+::res://assets/kit2_models/GLB format/Textures/::1733075478
+colormap.png::CompressedTexture2D::6762712424000863599::1712149179::1733075478::1::::<><>::
+::res://assets/kit2_models/Textures/::1733075468
+variation-a.png::CompressedTexture2D::9150839336757665636::1712149178::1733075468::1::::<><>::
+::res://assets/kit3_models/::1733091330
+::res://assets/kit3_models/GLB format/::1733091345
+altar-stone.glb::PackedScene::8863193126309836505::1698252008::1733091341::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+altar-wood.glb::PackedScene::3414182194386719583::1698252008::1733091341::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+bench-damaged.glb::PackedScene::4894427906107063011::1698252008::1733091341::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+bench.glb::PackedScene::1902900755270639998::1698252008::1733091341::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+border-pillar.glb::PackedScene::8879208595929115610::1698252008::1733091341::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+brick-wall-curve-small.glb::PackedScene::986472616547921822::1698252008::1733091341::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+brick-wall-curve.glb::PackedScene::2362325054187739833::1698252008::1733091341::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+brick-wall-end.glb::PackedScene::4313335293431610298::1698252008::1733091340::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+brick-wall.glb::PackedScene::4223565356581500267::1698252008::1733091340::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+candle-multiple.glb::PackedScene::4043885031670648615::1698252009::1733091340::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+candle.glb::PackedScene::6974615509465398801::1698252008::1733091340::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+character-digger.glb::PackedScene::953689362252842860::1698252009::1733091340::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+character-ghost.glb::PackedScene::2211599211647093313::1698252009::1733091340::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+character-skeleton.glb::PackedScene::4460358283319093577::1698252009::1733091339::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+character-vampire.glb::PackedScene::7468740392253812485::1698252009::1733091339::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+character-zombie.glb::PackedScene::5167004931886906731::1698252009::1733091339::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+coffin-old.glb::PackedScene::5699518969094714426::1698252010::1733091339::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+coffin.glb::PackedScene::153011238972874272::1698252010::1733091339::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+column-large.glb::PackedScene::2116719172478887289::1698252010::1733091339::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+cross-column.glb::PackedScene::247202746079872929::1698252010::1733091339::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+cross-wood.glb::PackedScene::5442408216882114756::1698252010::1733091338::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+cross.glb::PackedScene::9203547175389595904::1698252010::1733091338::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+crypt-door.glb::PackedScene::8873043967423274225::1698252010::1733091338::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+crypt-large-roof.glb::PackedScene::7433044928499501009::1698252010::1733091345::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+crypt-large.glb::PackedScene::930722455655673223::1698252010::1733091345::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+crypt-small-entrance-alternative.glb::PackedScene::2972617831827136743::1698252010::1733091345::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+crypt-small-entrance.glb::PackedScene::5166809988311177796::1698252010::1733091344::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+crypt-small-roof.glb::PackedScene::7949829427492585495::1698252010::1733091344::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+crypt-small.glb::PackedScene::8115117275576582436::1698252010::1733091344::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+crypt.glb::PackedScene::7057020839550797731::1698252010::1733091344::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+debris-wood.glb::PackedScene::7003752970262560654::1698252010::1733091344::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+debris.glb::PackedScene::2210088107509840604::1698252010::1733091344::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+detail-bowl.glb::PackedScene::5232570412610651816::1698252010::1733091344::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+detail-chalice.glb::PackedScene::7444374715128744059::1698252010::1733091343::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+detail-plate.glb::PackedScene::7938426333836710032::1698252010::1733091343::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+fence-damaged.glb::PackedScene::727775395922880018::1698252011::1733091343::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+fence-gate.glb::PackedScene::6906520894423005360::1698252011::1733091343::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+fence.glb::PackedScene::136563466421782549::1698252011::1733091343::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+fire-basket.glb::PackedScene::4411455680219993370::1698252011::1733091343::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+grave-border.glb::PackedScene::3794175541712496381::1698252011::1733091342::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+grave.glb::PackedScene::8291546291676813514::1698252011::1733091342::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-bevel.glb::PackedScene::8564698277862266402::1698252011::1733091342::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-broken.glb::PackedScene::3988479988875824770::1698252011::1733091342::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-cross-large.glb::PackedScene::7643244642549981695::1698252011::1733091342::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-cross.glb::PackedScene::8413093550103626439::1698252011::1733091342::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-debris.glb::PackedScene::1945254963048281437::1698252011::1733091342::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-decorative.glb::PackedScene::4940820222523279549::1698252011::1733091334::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-flat-open.glb::PackedScene::2671881049382607198::1698252011::1733091334::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-flat.glb::PackedScene::2782315275399039637::1698252011::1733091334::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-roof.glb::PackedScene::1060746516569884589::1698252011::1733091334::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-round.glb::PackedScene::530019808625103113::1698252011::1733091334::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+gravestone-wide.glb::PackedScene::3101521458243711425::1698252011::1733091334::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+hay-bale-bundled.glb::PackedScene::3140803798546003577::1698252011::1733091334::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+hay-bale.glb::PackedScene::4640511069238037403::1698252011::1733091333::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+iron-fence-bar.glb::PackedScene::4527367794050734103::1698252012::1733091333::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+iron-fence-border-column.glb::PackedScene::3936000465131324628::1698252012::1733091333::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+iron-fence-border-curve.glb::PackedScene::381811837900559835::1698252012::1733091333::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+iron-fence-border-gate.glb::PackedScene::8965315097298158142::1698252012::1733091333::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+iron-fence-border.glb::PackedScene::7310793953849108462::1698252012::1733091333::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+iron-fence-curve.glb::PackedScene::1529846498847515839::1698252012::1733091332::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+iron-fence-damaged.glb::PackedScene::7950583226140977887::1698252012::1733091332::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+iron-fence.glb::PackedScene::4533512641440218497::1698252012::1733091332::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+lantern-candle.glb::PackedScene::25099031057659616::1698252012::1733091332::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+lantern-glass.glb::PackedScene::6906874422014837394::1698252012::1733091332::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+lightpost-all.glb::PackedScene::6307099180067265149::1698252012::1733091332::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+lightpost-double.glb::PackedScene::1928847577354175514::1698252012::1733091332::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+lightpost-single.glb::PackedScene::4637053593153165663::1698252012::1733091331::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pillar-large.glb::PackedScene::7300003275662766473::1698252012::1733091331::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pillar-obelisk.glb::PackedScene::6750600794123400684::1698252012::1733091338::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pillar-small.glb::PackedScene::1294763025631112768::1698252012::1733091338::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pillar-square.glb::PackedScene::7618638254951107549::1698252012::1733091338::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pine-crooked.glb::PackedScene::8051950233716758797::1698252012::1733091337::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pine-fall-crooked.glb::PackedScene::1527631213962704518::1698252013::1733091337::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pine-fall.glb::PackedScene::2977666240675887247::1698252012::1733091337::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pine.glb::PackedScene::1084626506079873604::1698252012::1733091337::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pumpkin-carved.glb::PackedScene::264558892460824327::1698252013::1733091337::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pumpkin-tall-carved.glb::PackedScene::2297783627552795188::1698252013::1733091337::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pumpkin-tall.glb::PackedScene::6803838008605697229::1698252013::1733091336::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+pumpkin.glb::PackedScene::1253234990893278674::1698252013::1733091336::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+road.glb::PackedScene::7152942280523288689::1698252013::1733091336::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+rocks-tall.glb::PackedScene::3424400641956641929::1698252013::1733091336::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+rocks.glb::PackedScene::2941158964268014618::1698252013::1733091336::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+shovel-dirt.glb::PackedScene::4266354341833890029::1698252013::1733091336::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+shovel.glb::PackedScene::800626829894113339::1698252013::1733091336::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+stone-wall-column.glb::PackedScene::1201651611689850651::1698252013::1733091335::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+stone-wall-curve.glb::PackedScene::6315768619081019896::1698252013::1733091335::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+stone-wall-damaged.glb::PackedScene::49000406613106661::1698252013::1733091335::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+stone-wall.glb::PackedScene::863945814220680815::1698252013::1733091335::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+trunk-long.glb::PackedScene::2431458476904315544::1698252013::1733091335::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+trunk.glb::PackedScene::5089500344146727488::1698252013::1733091335::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+urn.glb::PackedScene::7122175494759485717::1698252013::1733091335::1::::<><>::uid://h8oa4qyk74nr::::res://assets/kit3_models/GLB format/Textures/colormap.png
+::res://assets/kit3_models/GLB format/Textures/::1733091346
+colormap.png::CompressedTexture2D::560297958248059871::1698252026::1733091346::1::::<><>::
+::res://assets/kit3_models/Textures/::1733091330
+::res://assets/textures/::1733124142
+::res://builds/::1732825453
+::res://scenes/::1733674660
+cenario_fechado.tscn::PackedScene::4841225464621070829::1732824134::0::1::::<><>::uid://68jsg5op7hw2::::res://assets/cenario-fechado.glb
+chao2.tscn::PackedScene::5253268672128417199::1733098957::0::1::::<><>::uid://daip3ing65yyk::::res://assets/kit2_models/GLB format/floor.glb
+chao_musgo.tscn::PackedScene::6193794972008366477::1733092224::0::1::::<><>::uid://cy2vlo3t8ucwd::::res://assets/kit2_models/GLB format/patch-grass-large.glb
+chest1.tscn::PackedScene::6587099951343902195::1733118753::0::1::::<><>::uid://b1q6w5vst1pvh::::res://assets/kit2_models/GLB format/chest.glb
+chest2.tscn::PackedScene::4218400570442752345::1733118789::0::1::::<><>::uid://lsdp76m7dyf7::::res://assets/kit1_models/GLB format/chest.glb
+gamba.gd::GDScript::-1::1733618989::0::1::::<>CharacterBody3D<>::
+level_2.tscn::PackedScene::2738697688065990138::1733674660::0::1::::<><>::
+main.gd::GDScript::-1::1733658552::0::1::::<>Node3D<>::
+main.tscn::PackedScene::1219864538787961659::1733674659::0::1::::<><>::res://scenes/main.gd<>uid://ca8ejnfpte310::::res://scenes/cenario_fechado.tscn<>uid://c2mwicpyuyirp::::res://scenes/torch.tscn<>uid://bkg18pyfyy7o8::::res://scenes/stones.tscn<>uid://dq1wt346wtkct::::res://scenes/rock1.tscn<>uid://c2cy8s2hbbrro::::res://scenes/rock2.tscn<>uid://dkggp84ubc51n::::res://scenes/rock3.tscn<>uid://csau5ackdsule::::res://scenes/parede_final.tscn<>uid://bjw6g6q5h3lfn::::res://scenes/parede_final_curva.tscn<>uid://buj63kqwhfnuh::::res://scenes/pilar.tscn<>uid://de2ub2ml6f7f5::::res://assets/testing_metal grau casz stone rust_BaseColor.jpg<>uid://cjkmacittqkuu::::res://assets/testing_metal grau casz stone rust_Metallic.jpg-metal grau casz stone rust_Roughness.png<>uid://ou5x14rk3hef::::res://assets/testing_metal grau casz stone rust_Normal.jpg<>uid://crwi8ocsugwsx::::res://assets/testing_stab_BaseColor.jpg<>uid://dv7kfk8gfwsou::::res://assets/testing_stab_Metallic.jpg-stab_Roughness.png<>uid://il60c2nurrw1::::res://assets/testing_stab_Normal.jpg<>uid://cpccm73h1fewe::::res://assets/testing_Fackel docht_BaseColor.jpg<>uid://c1vluipdi6ypp::::res://assets/testing_Fackel docht_Metallic.jpg-Fackel docht_Roughness.jpg.png<>uid://ipi0gcpet6ju::::res://assets/testing_Fackel docht_Normal.jpg<>uid://cuik5snm2eddl::::res://scenes/chao_musgo.tscn<>uid://cg3ytkbypymtj::::res://scenes/chao2.tscn<>uid://d4eiyk8ee8grq::::res://scenes/static_player.tscn<>uid://c033trlcxd7g6::::res://scenes/chest1.tscn<>uid://b1doo85f7pml2::::res://scenes/chest2.tscn<>uid://dv6d2iy4axb6l::::res://scenes/tree_trunk.tscn<>uid://twlcia6k33gb::::res://scenes/tree.tscn<>uid://dcfnq5llrwtwc::::res://assets/ursaov2.glb<>res://scenes/urso.gd<>uid://dtuobkbnpdng7::::res://scenes/playerKaka.tscn<>res://scenes/gamba.gd<>res://scenes/safe.gd<>uid://6rv3n71uhs56::::res://sounds/Kaka_Triste.wav<>uid://j0aksdy773iu::::res://sounds/Kaka_Feliz.wav<>uid://v7ek7kl5bwjb::::res://sounds/bg_audio.wav
+parede_final.tscn::PackedScene::6037508470091964234::1733091475::0::1::::<><>::uid://b1f6rfbcdrkal::::res://assets/kit3_models/GLB format/brick-wall.glb
+parede_final_curva.tscn::PackedScene::3065431182878152947::1733091535::0::1::::<><>::uid://8wlfbw0glo6l::::res://assets/kit3_models/GLB format/brick-wall-curve.glb
+pilar.tscn::PackedScene::3810709736204902203::1733092589::0::1::::<><>::uid://dgsr4g7v6vvcn::::res://assets/kit3_models/GLB format/pillar-square.glb
+player.tscn::PackedScene::868844862790613115::1733161714::0::1::::<><>::res://scripts/character_body_3d.gd<>uid://cj20y56y6impu::::res://assets/trabalhoWithAnim.glb
+playerKaka.tscn::PackedScene::8534989986364893960::1733674660::0::1::::<><>::res://scripts/character_body_3dKaka.gd<>uid://ce2ybcii2t0ki::::res://assets/Kaka.glb
+rock1.tscn::PackedScene::8337328591710218775::1733075634::0::1::::<><>::uid://dqbl31a0vhqu::::res://assets/kit2_models/GLB format/rock-a.glb
+rock2.tscn::PackedScene::6673586027595918412::1733075695::0::1::::<><>::uid://bcofwgvy5cglk::::res://assets/kit2_models/GLB format/rock-b.glb
+rock3.tscn::PackedScene::7873929621829199705::1733075723::0::1::::<><>::uid://c8bkdj24hj8ag::::res://assets/kit2_models/GLB format/rock-c.glb
+safe.gd::GDScript::-1::1733672588::0::1::::<>Area3D<>::
+static_player.tscn::PackedScene::9203525198994769394::1733357414::0::1::::<><>::uid://ldd7srm6xjbv::::res://assets/trabalhoWithoutAnim.glb
+stones.tscn::PackedScene::3102333784794361309::1733075152::0::1::::<><>::uid://b5ueedsc7aiuj::::res://assets/kit1_models/GLB format/stones.glb
+torch.tscn::PackedScene::6694062868190791729::1733074524::0::1::::<><>::uid://3v805rc6ardw::::res://assets/testing.glb
+tree.tscn::PackedScene::1379676219829967005::1733114699::0::1::::<><>::uid://8qj05rvoife1::::res://assets/kit2_models/GLB format/tree.glb
+tree_trunk.tscn::PackedScene::8697454303848208517::1733102344::0::1::::<><>::uid://c664deyjdaewb::::res://assets/kit2_models/GLB format/tree-trunk.glb
+urso.gd::GDScript::-1::1733673472::0::1::::<>CharacterBody3D<>::
+::res://scripts/::1733340841
+character_body_3dGamba.gd::GDScript::-1::1733159768::0::1::::<>CharacterBody3D<>::
+character_body_3dKaka.gd::GDScript::-1::1733340841::0::1::::<>CharacterBody3D<>::
+::res://sounds/::1733619611
+bg_audio.wav::AudioStreamWAV::1540288227173901267::1733619610::1733619611::1::::<><>::
+Kaka_Feliz.wav::AudioStreamWAV::683327845722053972::1733617336::1733617337::1::::<><>::
+Kaka_Triste.wav::AudioStreamWAV::2212274367121090843::1733617249::1733617267::1::::<><>::

@@ -1,0 +1,14 @@
+Label
+ColorRect
+AudioStreamPlayer2D
+AudioListener2D
+AudioStreamPlayer3D
+Control
+Area3D
+CharacterBody3D
+CollisionShape3D
+Timer
+SpotLight3D
+MeshInstance3D
+Node3D
+OmniLight3D
