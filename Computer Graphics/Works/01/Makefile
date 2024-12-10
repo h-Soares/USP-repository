@@ -1,0 +1,15 @@
+# Nome do arquivo fonte e do executável
+SRC = pratica1.cpp
+EXEC = pratica1.exe
+
+# Regra padrão para compilar, linkar e executar
+all: $(EXEC)
+
+$(EXEC):
+	g++ -o $(EXEC) $(SRC) -I"C:\Program Files\Common Files\MinGW\freeglut\include" -L"C:\Program Files\Common Files\MinGW\freeglut\lib" -lfreeglut -lopengl32 -lglu32
+
+run: clean all
+	./$(EXEC)
+
+clean:
+	del $(EXEC)
