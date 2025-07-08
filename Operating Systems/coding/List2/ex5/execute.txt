@@ -1,0 +1,3 @@
+1 - Estando dentro da pasta List2/ex5: cd ../..  # agora você está na raiz do projeto (/coding)
+2 - javac List2/ex5/*.java
+3 - java List2.ex5.Main number1 number2 number3 ... numbern
